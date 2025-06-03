@@ -27,7 +27,7 @@ This repository contains an **Exploratory Data Analysis (EDA)** project focused 
 ## 🔍 Insights Gained
 
 - Certain departments and roles show higher attrition rates
-- Monthly income, job satisfaction, and years at company have a significant impact
+- Monthly income, job satisfaction, and years at the company have a significant impact
 - Work-life balance and overtime also correlate with attrition likelihood
 
 ---
